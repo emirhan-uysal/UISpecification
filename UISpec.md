@@ -19,7 +19,7 @@ _Author(s): Emirhan Uysal_
 
 ## 1. Introduction
 
-- **Purpose**: This UI specification is done for P.I Works technical assignment.
+- **Purpose**: This UI specification is done for P.I. Works technical assignment.
 
 ---
 
